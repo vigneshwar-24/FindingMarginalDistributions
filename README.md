@@ -1,4 +1,6 @@
-# Marginal distributions and correation coefficient  
+### EX NO : 03
+### DATE  : 27.04.2022
+# <p align="center">Marginal distributions and correation coefficient </p> 
 
 # Aim : 
 
@@ -27,10 +29,7 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 # Procedure :
 ![image](https://user-images.githubusercontent.com/104613195/168220332-09383cb4-a7ac-4526-b547-fc522ca53227.png)
